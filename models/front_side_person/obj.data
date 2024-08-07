@@ -1,0 +1,6 @@
+classes = 3
+train = /yolo/models/front_side_person/train.txt
+valid = /yolo/models/front_side_person/test.txt
+names = /yolo/models/front_side_person/obj.names
+backup = /yolo/models/front_side_person/weights
+eval = voc
